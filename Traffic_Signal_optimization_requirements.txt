@@ -1,4 +1,4 @@
-pip install opencv-python
-pip install numpy
-pip install ultralytics
-pip install polars
+pencv-python
+numpy
+ultralytics
+polars
