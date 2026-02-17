@@ -1,4 +1,5 @@
-pencv-python
+opencv-python
 numpy
 ultralytics
 polars
+
